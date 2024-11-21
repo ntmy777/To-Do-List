@@ -22,7 +22,7 @@ npm install
 npm run start
 ```
 
-###3. Visit the website
+### 3. Visit the website
 Once both the client and server are running, open your browser and visit the frontend
 
 You should be able to view the To-Do List application with all the features displayed, as shown in the image below:
