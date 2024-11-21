@@ -1,0 +1,15 @@
+# Client side node_modules
+client/node_modules/
+
+# Server side node_modules
+server/node_modules/
+
+# Logs
+*.log
+
+# npm debug
+npm-debug.log
+
+# IDE or editor folders
+.vscode/
+.idea/
